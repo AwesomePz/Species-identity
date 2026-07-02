@@ -1,5 +1,7 @@
 # Species idenetty
-本文档适用于批量下载nt库，并依据taxids构建nt子库；blast批量比对nt库和nt子库
+本文档适用于
+1. 批量下载nt库，并依据taxids构建nt子库
+2. blast批量比对nt库和nt子库
 
 ## 下载数据库
 - sh download_nt.sh
